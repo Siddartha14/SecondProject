@@ -28,7 +28,7 @@ int add1 (int d, int b,int c) {
      System.out.println(n.s(4, 6, 6));
      System.out.println(n.f(6, 8, 12));
 
-
+System.out.println("hello everyone");
 }
 }
 
